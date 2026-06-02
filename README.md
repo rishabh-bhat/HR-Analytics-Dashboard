@@ -1,2 +1,6 @@
 # HR-Analytics-Dashboard
-To check the Attrition Rate of Male &amp; Female
+This HR Analytics Dashboard was developed using Power BI to analyze employee attrition and workforce trends. The dashboard provides actionable insights into employee turnover by examining key factors such as age, education, salary, job role, gender, and years at the company.
+
+Key Metrics Total Employees: 1,470 Attrition Count: 237 Attrition Rate: 16.1% Average Age: 37 Years Average Salary: 6.5K Average Years at Company: 7 Years Dashboard Features Interactive department-level filtering Employee attrition analysis by age, education, salary, and gender Job role-wise attrition comparison Employee tenure analysis Dynamic KPI cards and interactive visuals Clean and professional HR analytics dashboard design Key Insights Employees aged 26–35 experience the highest attrition. Most employee turnover occurs in the lower salary brackets. Laboratory Technicians, Sales Executives, and Research Scientists show higher attrition levels. Attrition is highest during the early years of employment and decreases with longer tenure. Male employees contribute a larger share of total attrition. Tools & Technologies Power BI Desktop Power Query DAX Data Modeling Data Visualization Business Impact
+
+This dashboard helps HR teams identify workforce risks, monitor employee retention, and make data-driven decisions to improve employee engagement and reduce attrition.
